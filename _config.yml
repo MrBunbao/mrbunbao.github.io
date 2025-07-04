@@ -1,0 +1,20 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+title: "Andy's Developer Journey"
+description: "A beginner software developer who loves to tinker with code and build things. Welcome to my digital playground!"
+author: "Andy"
+url: "https://mrbunbao.github.io"
+baseurl: ""
+
+# SEO and social
+social:
+  name: Andy
+  links:
+    - https://github.com/MrBunbao
+
+# Theme settings
+show_downloads: false
+google_analytics: # Add your GA tracking ID here if needed
