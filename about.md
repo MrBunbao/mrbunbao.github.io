@@ -12,25 +12,21 @@ I'm Andy, a passionate beginner software developer who loves exploring new techn
 
 ## What Drives Me
 
-- **Learning**: I'm constantly expanding my knowledge in web development, programming languages, and best practices
+- **Learning**: I'm constantly expanding my knowledge in software development, programming languages, and best practices, documentation
 - **Building**: I enjoy turning ideas into working applications and seeing projects come to life
-- **Problem Solving**: There's something satisfying about debugging code and finding elegant solutions
-- **Community**: I believe in the power of open source and learning from other developers
+- **Problem Solving**: The dopamine hit when you finally nail that bug or issue? The best feeling.
 
 ## Current Focus
 
 Right now, I'm focused on:
-- Mastering web development fundamentals
-- Building a portfolio of meaningful projects  
-- Contributing to open source when possible
-- Networking with other developers in the community
+- Building my Home Assistant
+- Building a portfolio of meaningful projects / resume site
 
 ## Beyond Code
 
 When I'm not coding, you might find me:
-- Reading tech blogs and staying up to date with industry trends
-- Experimenting with new tools and frameworks
-- Working on side projects that solve real problems
+- Experimenting with new tools
+- Working on side projects
 - Sharing what I learn with others
 
 ---
